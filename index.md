@@ -16,6 +16,10 @@
 <img src="images/Scissor Lift.PNG?raw=true"/>
 
 ---
+[CPU Cooler Fan](http://example.com/)
+<img src="images/CPU Cooler.PNG?raw=true"/>
+
+---
 
 ### Python and Academic Projects
 
