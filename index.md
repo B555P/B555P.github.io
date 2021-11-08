@@ -13,7 +13,6 @@
 
 ---
 [Scissor Lift](http://example.com/)
-
 <img src="images/Scissor Lift.PNG?raw=true"/>
 
 ---
