@@ -1,8 +1,8 @@
-## Portfolio
+## Project Portfolio
 
 ---
 
-### Category Name 1 
+### Finite Element Analysis Projects 
 
 [Car traveling at 60 mph](/sample_page)
 <img src="images/Car.PNG?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Python and Academic Projects
 
 - [Car traveling at 60 mph](http://example.com/)
 - [Electronics Thermal Packaging](http://example.com/)
