@@ -12,7 +12,7 @@
 <img src="images/Electronics Packaging.PNG?raw=true"/>
 
 ---
-[Scissor Lift] (http://example.com/)
+ [Scissor Lift](http://example.com/) 
 <img src="images/Scissor Lift.PNG?raw=true"/>
 
 ---
@@ -23,7 +23,7 @@
 
 ### Python and Academic Projects
 
-- [Car traveling at 60 mph](http://example.com/)
+- [Non-Linear Regression Curve (Image Processing)](http://example.com/)
 - [Electronics Thermal Packaging](http://example.com/)
 - [Scissor Lift](http://example.com/)
 - [Project 4 Title](http://example.com/)
