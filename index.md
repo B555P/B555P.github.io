@@ -4,24 +4,24 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Car traveling at 60 mph](/sample_page)
+<img src="images/Car.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Electronics Thermal Packaging](/pdf/sample_presentation.pdf)
+<img src="images/Electronics Packaging.PNG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Scissor Lift](http://example.com/)
+<img src="images/Scissor Lift.PNG?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Car traveling at 60 mph](http://example.com/)
+- [Electronics Thermal Packaging](http://example.com/)
+- [Scissor Lift](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
