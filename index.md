@@ -13,12 +13,14 @@ Car traveling at 60 mph
 Electronics Thermal Packaging(/pdf/sample_presentation.pdf)
 ---
 [![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://www.linkedin.com/feed/update/urn:li:activity:6753712703367364608/)
-[![View on LinkedIn](https://img.shields.io/badge/LinkedIn-View%20on%20LinkedIn-red?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:6825057852160323584/)
+[![View on LinkedIn](https://img.shields.io/badge/LinkedIn-View%20on%20LinkedIn-red?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:6753712703367364608/)
 <img src="images/Electronics Packaging.PNG?raw=true"/>
 
 ---
- Scissor Lift(http://example.com/)
+Scissor Lift (Rated for 1000 lbs.) 
+---
  [![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1Duco9fMs7Wpnjsu8rnqm6ejIYriSyaGO/view?usp=sharing)
+ ---
 <img src="images/Scissor Lift.PNG?raw=true"/>
 
 
