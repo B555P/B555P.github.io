@@ -14,7 +14,6 @@
 ---
 ### Scissor Lift (Rated for 1000 lbs.) 
  [![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1Duco9fMs7Wpnjsu8rnqm6ejIYriSyaGO/view?usp=sharing)
- ---
 <img src="images/Scissor Lift.PNG?raw=true"/>
 
 
