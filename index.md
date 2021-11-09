@@ -5,18 +5,20 @@
 
 Car traveling at 60 mph
 ---
-[![View on GitHub](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://github.com/BenPortz/Author-Profiling)
+[![View on PDF](https://img.shields.io/badge/PDF-View%20on%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1Fzx4AJVe6fO_IPcrdiTyfVlS1Ypc37ML/view?usp=sharing)
+[![View on LinkedIn](https://img.shields.io/badge/PDF-View%20on%20LinkedIn-red?logo=adobeacrobatreader)](https://www.linkedin.com/feed/update/urn:li:activity:6825057852160323584/)
 <img src="images/Car.PNG?raw=true"/>
 
 ---
 Electronics Thermal Packaging(/pdf/sample_presentation.pdf)
 ---
-[![View on GitHub](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://github.com/BenPortz/Author-Profiling)
+[![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://www.linkedin.com/feed/update/urn:li:activity:6753712703367364608/)
+[![View on LinkedIn](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://www.linkedin.com/feed/update/urn:li:activity:6753712703367364608/)
 <img src="images/Electronics Packaging.PNG?raw=true"/>
 
 ---
  Scissor Lift(http://example.com/)
- [![View on GitHub](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://github.com/BenPortz/Author-Profiling)
+ [![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://github.com/BenPortz/Author-Profiling)
 <img src="images/Scissor Lift.PNG?raw=true"/>
 
 ---
