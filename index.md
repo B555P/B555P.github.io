@@ -18,7 +18,7 @@ Electronics Thermal Packaging(/pdf/sample_presentation.pdf)
 
 ---
  Scissor Lift(http://example.com/)
- [![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://github.com/BenPortz/Author-Profiling)
+ [![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1Duco9fMs7Wpnjsu8rnqm6ejIYriSyaGO/view?usp=sharing)
 <img src="images/Scissor Lift.PNG?raw=true"/>
 
 
