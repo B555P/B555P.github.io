@@ -2,20 +2,27 @@
 ---
 
 ### Finite Element Analysis Projects 
-[![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://github.com/BenPortz/Author-Profiling)
-[Car traveling at 60 mph](/sample_page)
+
+Car traveling at 60 mph
+---
+[![View on GitHub](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://github.com/BenPortz/Author-Profiling)
 <img src="images/Car.PNG?raw=true"/>
 
 ---
-[Electronics Thermal Packaging](/pdf/sample_presentation.pdf)
+Electronics Thermal Packaging(/pdf/sample_presentation.pdf)
+---
+[![View on GitHub](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://github.com/BenPortz/Author-Profiling)
 <img src="images/Electronics Packaging.PNG?raw=true"/>
 
 ---
- [Scissor Lift](http://example.com/) 
+ Scissor Lift(http://example.com/)
+ [![View on GitHub](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://github.com/BenPortz/Author-Profiling)
 <img src="images/Scissor Lift.PNG?raw=true"/>
 
 ---
-[CPU Cooler Fan](http://example.com/)
+CPU Cooler Fan(http://example.com/)
+---
+[![View on GitHub](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://github.com/BenPortz/Author-Profiling)
 <img src="images/CPU Cooler.PNG?raw=true"/>
 
 ---
