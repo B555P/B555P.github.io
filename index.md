@@ -2,7 +2,7 @@
 ---
 
 ### Finite Element Analysis Projects 
-[![View on GitHub](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://github.com/BenPortz/Author-Profiling)
+[![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://github.com/BenPortz/Author-Profiling)
 [Car traveling at 60 mph](/sample_page)
 <img src="images/Car.PNG?raw=true"/>
 
