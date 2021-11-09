@@ -6,7 +6,7 @@
 Car traveling at 60 mph
 ---
 [![View on PDF](https://img.shields.io/badge/PDF-View%20on%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1Fzx4AJVe6fO_IPcrdiTyfVlS1Ypc37ML/view?usp=sharing)
-[![View on LinkedIn](https://img.shields.io/badge/PDF-View%20on%20LinkedIn-red?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:6825057852160323584/)
+[![View on LinkedIn](https://img.shields.io/badge/LinkedIn-View%20on%20LinkedIn-red?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:6825057852160323584/)
 <img src="images/Car.PNG?raw=true"/>
 
 ---
