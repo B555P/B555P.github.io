@@ -10,7 +10,7 @@ Car traveling at 60 mph
 <img src="images/Car.PNG?raw=true"/>
 
 ---
-Electronics Thermal Packaging(/pdf/sample_presentation.pdf)
+Electronics Thermal Packaging
 ---
 [![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://www.linkedin.com/feed/update/urn:li:activity:6753712703367364608/)
 [![View on LinkedIn](https://img.shields.io/badge/LinkedIn-View%20on%20LinkedIn-red?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:6753712703367364608/)
