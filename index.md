@@ -19,7 +19,7 @@
 
 ---
 ### CPU Cooler Fan
-[![View on GitHub](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/12g1G60X1QUEj5pxTTzW1FPXYJF_fBRv_/view?usp=sharing)
+[![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1LtnJvTcKL2pU49aB4aocd1h_DIUH0Uub/view?usp=sharing)
 <img src="images/CPU Cooler.PNG?raw=true"/>
 
 ---
