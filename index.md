@@ -9,6 +9,7 @@
 - Siemens NX
 - Spaceclaim
 - DesignModeler
+<br><br>
 #### Finite Element Analysis - 3D Simulation Software: 
 - ANSYS Workbench
 - ANSYS Fluent
@@ -16,6 +17,7 @@
 - NASTRAN
 - Mechanical APDL
 - Fusion 360
+<br><br>
 #### Programming 
 - Arduino
 - Python
@@ -23,12 +25,13 @@
 - Rstudio
 - PLC Ladder
 - SAP
+<br><br>
 #### Analytical
 - Finite ELement Analysis
 - Fracture Mechanics
 - HVAC Heating and Cooling Load 
 - Fluid Dynamics
-
+<br><br>
 ## Finite Element Analysis Projects 
 
 ---
