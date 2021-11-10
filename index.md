@@ -27,7 +27,7 @@
 ### Python and Academic Projects
 
 - [Non-Linear Regression Curve (Image Processing)](http://example.com/)
-- [Heat Transfer Academic Paper](http://example.com/)
+- [Heat Transfer Academic Paper](https://drive.google.com/file/d/1kSZb9xcIM951G7CS3pPrVH0SFVpKjo5a/view?usp=sharing)
 
 
 ---
