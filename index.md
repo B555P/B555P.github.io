@@ -2,7 +2,7 @@
   Hello, I'm a Electro-Mechanical engineer currently working at Emerson Electric. With three Co-Op/Internship experience and the skills listed below, I am currently looking for a design engineering position preferably in EV's:, HVAC, or the energy sector. 
   
 ### Skills:
-<img src="images/Electronics Packaging.PNG?raw=true"/>
+<img src="images/Portfolio.JPG?raw=true"/>
 ## Finite Element Analysis Projects 
 
 ---
