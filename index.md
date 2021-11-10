@@ -1,4 +1,36 @@
+## About Me
+  Hello, I'm a Electro-Mechanical engineer currently working at Emerson Electric. With three Co-Op/Internship experience and the skills listed below, I am currently looking for a design engineering position preferably in EV's, HVAC, or the energy sector. 
+  
+### Skills:
+#### 3D Modeling Software:
+- AutoCAD
+- AutoDesk Inventor
+- Fusion 360
+- Siemens NX
+- Spaceclaim
+- DesignModeler
+#### Finite Element Analysis - 3D Simulation Software: 
+- ANSYS Workbench
+- ANSYS Fluent
+- CFD SimScale
+- NASTRAN
+- Mechanical APDL
+- Fusion 360
+#### Programming 
+- Arduino
+- Python
+- MATLAB
+- Rstudio
+- PLC Ladder
+- SAP
+#### Analytical
+- Finite ELement Analysis
+- Fracture Mechanics
+- HVAC Heating and Cooling Load 
+- Fluid Dynamics
+
 ## Finite Element Analysis Projects 
+
 ---
 ### Car traveling at 60 mph
 [![View on PDF](https://img.shields.io/badge/PDF-View%20on%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1Fzx4AJVe6fO_IPcrdiTyfVlS1Ypc37ML/view?usp=sharing)
