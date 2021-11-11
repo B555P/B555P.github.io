@@ -7,12 +7,15 @@
 
 ---
 ### Car traveling at 60 mph
+####  The project below is a simulation from a set of tutorials I guest-lectured for a class of 15 SIUE students. The goal was to introduce the students to the capabilities of ANSYS Fluent. This simulation shows the velocity and pressure of flowing air passing over a fast-moving car traveling through a tunnel.
+--- 
 [![View on PDF](https://img.shields.io/badge/PDF-View%20on%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1Fzx4AJVe6fO_IPcrdiTyfVlS1Ypc37ML/view?usp=sharing)
 [![View on LinkedIn](https://img.shields.io/badge/LinkedIn-View%20on%20LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:6825057852160323584/)
 <img src="images/Car.PNG?raw=true"/>
 
 ---
 ### Electronics Thermal Packaging
+####  This simulation was performed on SimScale and simulates the task of cooling down electronic packaging. This simulation explores the temperature, pressure, and velocity of the cooling air as it is sucked through the electronic housing. 
 [![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1LtnJvTcKL2pU49aB4aocd1h_DIUH0Uub/view?usp=sharing)
 [![View on LinkedIn](https://img.shields.io/badge/LinkedIn-View%20on%20LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:6753712703367364608/)
 <img src="images/Electronics Packaging.PNG?raw=true"/>
