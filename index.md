@@ -14,6 +14,7 @@ The project below is a simulation from a set of tutorials I guest-lectured for a
 --- 
 [![View on PDF](https://img.shields.io/badge/PDF-View%20on%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1Fzx4AJVe6fO_IPcrdiTyfVlS1Ypc37ML/view?usp=sharing)
 [![View on LinkedIn](https://img.shields.io/badge/LinkedIn-View%20on%20LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:6825057852160323584/)
+
 <img src="images/Car.PNG?raw=true"/>
 
 ---
@@ -22,17 +23,25 @@ This simulation was performed on SimScale and simulates the task of cooling down
 
 [![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1qsR3Hr7JQdfkgQKPuhR6l455oDkG6NIJ/view?usp=sharing)
 [![View on LinkedIn](https://img.shields.io/badge/LinkedIn-View%20on%20LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:6753712703367364608/)
+
 <img src="images/Electronics Packaging.PNG?raw=true"/>
 
 ---
 ### Scissor Lift (Rated for 1000 lbs.) 
+The scissor lift is rated for a load of up to 1000 lbs with a factor of safety of (3.1). The scissor is completely mechanically driven with an ACME threaded rod located in the bottom base acting as the drive shaft. 
+
  [![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1Duco9fMs7Wpnjsu8rnqm6ejIYriSyaGO/view?usp=sharing)
+ 
 <img src="images/Scissor Lift.PNG?raw=true"/>
 
 
 ---
 ### CPU Cooler Fan
+This is a project that I am currently working on. It shows a CPU cooling fan placed upon a glazed, blue motherboard. The goal of the project is to measure the impact of design changes to the heat sink and fan velocity on the performance of the CPU cooler. 
+
+---
 [![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/12g1G60X1QUEj5pxTTzW1FPXYJF_fBRv_/view?usp=sharing)
+
 <img src="images/CPU Cooler.PNG?raw=true"/>
 
 ---
