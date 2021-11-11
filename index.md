@@ -16,7 +16,7 @@
 ---
 ### Electronics Thermal Packaging
 ####  This simulation was performed on SimScale and simulates the task of cooling down electronic packaging. This simulation explores the temperature, pressure, and velocity of the cooling air as it is sucked through the electronic housing. 
-[![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1LtnJvTcKL2pU49aB4aocd1h_DIUH0Uub/view?usp=sharing)
+[![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1qsR3Hr7JQdfkgQKPuhR6l455oDkG6NIJ/view?usp=sharing)
 [![View on LinkedIn](https://img.shields.io/badge/LinkedIn-View%20on%20LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:6753712703367364608/)
 <img src="images/Electronics Packaging.PNG?raw=true"/>
 
