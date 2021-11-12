@@ -9,12 +9,12 @@ Hello, I'm a Electro-Mechanical engineer currently working at Emerson Electric. 
 ---
 ### Car traveling at 60 mph
 
-The project below is a simulation from a set of tutorials I guest-lectured for a class of 15 SIUE students. The goal was to introduce the students to the capabilities of ANSYS Fluent. This simulation shows the velocity and pressure of flowing air passing over a fast-moving car traveling through a tunnel.
+The project below is a simplified geometry simulation from a set of tutorials I guest-lectured for a class of 15 SIUE students. The goal was to introduce the students to the capabilities of ANSYS Fluent. This simulation shows the velocity and pressure of flowing air passing over a fast-moving car traveling through a tunnel. The results of the simulation can be better refined by using a finer mesh, and increasing the resolution of the time step size.
 
 [![View on PDF](https://img.shields.io/badge/PDF-View%20on%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1Fzx4AJVe6fO_IPcrdiTyfVlS1Ypc37ML/view?usp=sharing)
 [![View on LinkedIn](https://img.shields.io/badge/LinkedIn-View%20on%20LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:6825057852160323584/)
 
-<img src="images/Car.PNG?raw=true"/>
+[<img src="images/Car.PNG?raw=true"/>](https://drive.google.com/file/d/1Fzx4AJVe6fO_IPcrdiTyfVlS1Ypc37ML/view?usp=sharing)
 
 ---
 ### Electronics Thermal Packaging
@@ -23,7 +23,7 @@ This simulation was performed on SimScale and simulates the task of cooling down
 [![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1qsR3Hr7JQdfkgQKPuhR6l455oDkG6NIJ/view?usp=sharing)
 [![View on LinkedIn](https://img.shields.io/badge/LinkedIn-View%20on%20LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:6753712703367364608/)
 
-<img src="images/Electronics Packaging.PNG?raw=true"/>
+[<img src="images/Electronics Packaging.PNG?raw=true"/>](https://drive.google.com/file/d/1qsR3Hr7JQdfkgQKPuhR6l455oDkG6NIJ/view?usp=sharing)
 
 ---
 ### Scissor Lift (Rated for 1000 lbs.) 
@@ -31,7 +31,7 @@ The scissor lift is rated for a load of up to 1000 lbs with a factor of safety o
 
  [![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1Duco9fMs7Wpnjsu8rnqm6ejIYriSyaGO/view?usp=sharing)
  
-<img src="images/Scissor Lift.PNG?raw=true"/>
+[<img src="images/Scissor Lift.PNG?raw=true"/>](https://drive.google.com/file/d/1Duco9fMs7Wpnjsu8rnqm6ejIYriSyaGO/view?usp=sharing)
 
 
 ---
@@ -40,7 +40,7 @@ This is a project that I am currently working on. It shows a CPU cooling fan pla
 
 [![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/12g1G60X1QUEj5pxTTzW1FPXYJF_fBRv_/view?usp=sharing)
 
-<img src="images/CPU Cooler.PNG?raw=true"/>
+[<img src="images/CPU Cooler.PNG?raw=true"/>](https://drive.google.com/file/d/12g1G60X1QUEj5pxTTzW1FPXYJF_fBRv_/view?usp=sharing)
 
 ---
 
