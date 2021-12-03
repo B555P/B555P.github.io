@@ -44,7 +44,7 @@ This is a project that I am currently working on. It shows a CPU cooling fan pla
 
 ---
 ### Transducer Circuit schematic 
-This project is the electronic design of a transducer circuit board that is powered with a input voltage of 12V. The layout, model, and documentation was preapred in the open-source software KIcad. The board is a 1 sided to save on cost, and does not include the zone layers to increase component visibility. 
+This project is the electronic design of a transducer circuit board that is powered with an input voltage of 12V. The layout, model, and documentation were prepared in the open-source software KIcad. The board is 1 sided to save on cost and does not include the zone layers to increase component visibility.
 
 [![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1YYIVtQIxOaQVfo13JA7aB4Ks7FzixwJs/view?usp=sharing)
 
