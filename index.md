@@ -48,7 +48,7 @@ This project is the electronic design of a transducer circuit board that is powe
 
 [![View on PDF](https://img.shields.io/badge/PDF-View%20the%20PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1YYIVtQIxOaQVfo13JA7aB4Ks7FzixwJs/view?usp=sharing)
 
-[<img src="images/KICAD circuit.PNG?raw=true"/>](https://drive.google.com/file/d/12g1G60X1QUEj5pxTTzW1FPXYJF_fBRv_/view?usp=sharing)
+[<img src="images/KICAD circuit.PNG?raw=true"/>](https://drive.google.com/file/d/1YYIVtQIxOaQVfo13JA7aB4Ks7FzixwJs/view?usp=sharing)
 
 ---
 
