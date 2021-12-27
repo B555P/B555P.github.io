@@ -1,5 +1,5 @@
 ## About Me
-Hello, I'm a Electro-Mechanical engineer currently working at Emerson Electric. With three Co-Op/Internship experiences and the skills listed below, I am currently looking for a design engineering position preferably in aerospace, HVAC, or the energy sector. 
+Hello, I'm a Electro-Mechanical engineer currently working at Emerson Electric. With three Co-Op/Internship experiences and the skills listed below, I am currently looking for a design engineering position.
   
 ### Skills:
 <img src="images/Portfolio.JPG?raw=true"/>
