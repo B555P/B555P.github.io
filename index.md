@@ -55,9 +55,10 @@ This project is the electronic design of a transducer circuit board that is powe
 
 ### Python and Academic Projects
 
-- [Linear Regression Curve_Fit App (Image Processing)](https://share.streamlit.io/benportz/linear_regression_curve_fit/main/main.py)
- [<img src="images/App thumbnail.JPG?raw=true"/>](https://share.streamlit.io/benportz/linear_regression_curve_fit/main/main.py)
-- [Heat Transfer Academic Paper](https://drive.google.com/file/d/1kSZb9xcIM951G7CS3pPrVH0SFVpKjo5a/view?usp=sharing)
+[Linear Regression Curve_Fit App (Image Processing)](https://share.streamlit.io/benportz/linear_regression_curve_fit/main/main.py)
+ 
+[<img src="images/App thumbnail.JPG?raw=true"/>](https://share.streamlit.io/benportz/linear_regression_curve_fit/main/main.py)
+[Heat Transfer Academic Paper](https://drive.google.com/file/d/1kSZb9xcIM951G7CS3pPrVH0SFVpKjo5a/view?usp=sharing)
 
 
 ---
