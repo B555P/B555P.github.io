@@ -1,5 +1,13 @@
 ## About Me
-Hello, I'm a Electro-Mechanical engineer currently working at Emerson Electric. With three Co-Op/Internship experiences and the skills listed below, I am currently looking for a design engineering position.
+Greetings! My name is Ben Portz, and I am an accomplished Electro-Mechanical engineer with a proven track record of success in various industries. I am currently thriving in my role as an engineer at Williams Patent Crusher & Pulverizer, where I am currently leveraging my skills to support the installation of manufacturing material classification systems.
+
+Prior to this, I gained valuable experience working as an Electro-Mechanical R&D engineer at Emerson Electric, where I was part of a multidisciplinary team focused on developing thermostatic expansion gas valves. Additionally, I had the opportunity to hone my project engineering skills while working in the chemical plant for agriculture at Bayer-Monsanto, contributing significantly to the successful completion of multiple projects.
+
+My passion for engineering extends beyond my professional career. During my time as a research assistant at the University of Southern Illinois Edwardsville, I gained expertise in mechatronics while utilizing microcontrollers to help a user interface with a virtual "prosthetic limb".
+
+I am happy to showcase the projects I have completed in my spare time, which are a testament to my commitment to innovation and engineering excellence. Please take a moment to explore the projects below, which I developed shortly before graduating from college a few years ago.
+
+Thank you for taking the time to learn more about me, and I look forward to discussing how my skills and experience can benefit your organization.
   
 ### Skills:
 <img src="images/Portfolio.JPG?raw=true"/>
