@@ -1,4 +1,4 @@
-## About Me
+## About Me 
 Greetings! My name is Ben Portz, and I am an accomplished Electro-Mechanical engineer with a proven track record of success in various industries. I am currently thriving in my role as an engineer at Williams Patent Crusher & Pulverizer, where I am currently leveraging my skills to support the installation of manufacturing material classification systems.
 
 Prior to this, I gained valuable experience working as an Electro-Mechanical R&D engineer at Emerson Electric, where I was part of a multidisciplinary team focused on developing thermostatic expansion gas valves. Additionally, I had the opportunity to hone my project engineering skills while working in the chemical plant for agriculture at Bayer-Monsanto, contributing significantly to the successful completion of multiple projects.
